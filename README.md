@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi there 👋
+My name is Lyubomir Lambov
 
-<!--
-**LyubomirLambov/LyubomirLambov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Profile : Self-driven and motivated Softwere developer . Also studying in Tech University of Gabrovo - Softwere and computer engenering. About to finish my 2nd year.  
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning as a programming lenguage C#
+- 2016 gradueted school 
+- 2019 signed in Technical University of Gabrovo , Gabrovo,Bulgaria 
+- specialty : Software and computer engineer
+- 👯 I’m looking for company that works with internship programs
+- 📫 How to reach me: E-mail : lambov122@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: Passion about space stuff
+
