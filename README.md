@@ -1,7 +1,7 @@
 Hi there 👋
 My name is Lyubomir Lambov
 
-- 🔭 Profile : Self-driven and motivated Softwere developer . Also studying in Tech University of Gabrovo - Softwere and computer engenering. About to finish my 2nd year.  
+- 🔭 Profile : Self-driven and motivated Softwere developer . Also studying in Tech University of Gabrovo - Softwere and computer engenering. Just finished my 2nd year in University
 
 - 🌱 I’m currently learning as a programming lenguage C#
 - 2016 gradueted school 
