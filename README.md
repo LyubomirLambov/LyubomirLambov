@@ -1,14 +1,13 @@
-Hi there 👋
-My name is Lyubomir Lambov
 
-- 🔭 Profile : Self-driven and motivated Softwere developer . Also studying in Tech University of Gabrovo - Softwere and computer engenering. Just finished my 2nd year in University
+Hi there 👋 My name is Lyubomir Lambov
+* 🔭 Profile: Self-driven and motivated software developer. Starting my 3rd year in Tech University of Gabrovo - Software and Computer Engineering
 
-- 🌱 I’m currently learning as a programming lenguage C#
-- 2016 gradueted school 
-- 2019 signed in Technical University of Gabrovo , Gabrovo,Bulgaria 
-- specialty : Software and computer engineer
-- 👯 I’m looking for company that works with internship programs
-- 📫 How to reach me: E-mail : lambov122@gmail.com
+* 🌱 I’m currently learning C# as a weapon of choice but open for any other technologies and languages
 
-- ⚡ Fun fact: Passion about space stuff
+* ❤️ Passionate about engineering, hungry for professional experience
 
+* 👯 I’m looking for an internship in a software company 
+
+* 📫 How to reach me: E-mail : lambov122@gmail.com
+
+* ⚡ Fun fact: Keen on space engineering
