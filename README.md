@@ -3,6 +3,7 @@ Hi there 👋 My name is Lyubomir Lambov
 * 🔭 Profile: Self-driven and motivated software developer. Starting my 3rd year in Tech University of Gabrovo - Software and Computer Engineering
 
 * 🌱 I’m currently learning C# as a weapon of choice but open for any other technologies and languages
+* + Python 101 forever course from HackBulgaria
 
 * ❤️ Passionate about engineering, hungry for professional experience
 
